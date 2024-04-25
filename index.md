@@ -1,4 +1,4 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. I am a student of Electrical Engineering at UQ, my student number is S4840372.I will be sharing my problems and my own thoughts on the ELEC 4630 course here.
 
 ![Image of fast.ai logo](images/logo.png)
 
